@@ -1,2 +1,0 @@
-# tandro
-# tandro-solutions
